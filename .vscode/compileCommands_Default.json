@@ -1,0 +1,234 @@
+[
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedExternalUILibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsGameInstance.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsInterface.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsLibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedIdentityLibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessions.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedVoiceLibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AutoLoginUserCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/CancelFindSessionsCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/CreateSessionCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/EndSessionCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/FindFriendSessionCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/FindSessionsCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/GetFriendsCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/GetRecentPlayersCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/GetUserPrivilegeCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/LoginUserCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/LogoutUserCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/SendFriendInviteCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/StartSessionCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/UpdateSessionCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSessions.1.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSteamSessions.0.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSteamSessions.0.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSteamSessions.0.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSteamSessions.0.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/AdvancedSteamSessions.0.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Source/BeerBashers/BeerBashers.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/BeerBashers.2.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/teapotexpress/Documents/Unreal Projects/BeerBashers/Source/BeerBashers/MyClass.cpp",
+		"arguments": [
+			"/opt/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/teapotexpress/Documents/Unreal Projects/BeerBashers/.vscode/compileCommands_Default/BeerBashers.2.rsp"
+		],
+		"directory": "/opt/UnrealEngine/Engine/Source"
+	}
+]
