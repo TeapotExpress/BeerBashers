@@ -31,5 +31,5 @@ struct BEERBASHERS_API FSettingRow : public FTableRowBase
 	TArray<float> Values;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, meta = (ClampMin = "0"))
-	int32 DEG_TO_RAD = 0;
+	int32 DefaultIndex = 0;
 };
